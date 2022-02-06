@@ -4,7 +4,11 @@
 .link {
   text-decoration: none;
 }
-.nav-list-item {
+.nav-list-link:hover,
+.nav-list-link:focus
+{color: #2196F3;}
+
+.nav-list-link {
 font-family: "Roboto", sans-serif;
 font-style: normal;
 font-weight: 500;
@@ -12,4 +16,3 @@ font-size: 14px;
 line-height: 1.14;
 letter-spacing: 0.02em;
 color: #212121;;
-
