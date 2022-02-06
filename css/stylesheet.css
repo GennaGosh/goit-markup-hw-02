@@ -5,15 +5,73 @@
   text-decoration: none;
 }
 .nav-list-link:hover,
-.nav-list-link:focus
-{color: #2196F3;}
+.nav-list-link:focus {
+  color: #2196f3;
+}
 
 .nav-list-link {
-font-family: "Roboto", sans-serif;
-font-style: normal;
-font-weight: 500;
-font-size: 14px;
-line-height: 1.14;
-letter-spacing: 0.02em;
-color: #212121;}
+  font-family: "Roboto", sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 1.14;
+  letter-spacing: 0.02em;
+  color: #212121;
+}
 
+.contact-mail {
+  font-family: "Roboto", sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 1.14;
+  letter-spacing: 0.02em;
+  color: #757575;
+}
+.contact-number {
+  font-family: "Roboto", sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 1.14;
+  color: #757575;
+}
+.contact-mail:hover,
+.contact-mail:focus {
+  color: #2196f3;
+}
+.contact-number:hover,
+.contact-number:focus {
+  color: #2196f3;
+}
+
+.model-btn {
+  font-family: "Roboto", sans-serif;
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 1.88;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  letter-spacing: 0.06em;
+}
+
+.model-btn:hover,
+.model-btn:focus {
+  background-color: #2196f3;
+  color: #ffffff;
+}
+.nav-item-btn {
+  font-family: "Roboto", sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.6;
+  text-align: center;
+  letter-spacing: 0.03em;
+}
+.nav-item-btn:hover,
+.nav-item-btn:focus {
+  background-color: #2196f3;
+  color: #ffffff;
+}
