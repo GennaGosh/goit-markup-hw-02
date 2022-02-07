@@ -61,7 +61,8 @@
   background-color: #2196f3;
   color: #ffffff;
 }
-.nav-item-btn {
+
+.item-btn {
   font-family: "Roboto", sans-serif;
   font-style: normal;
   font-weight: 500;
@@ -70,7 +71,7 @@
   text-align: center;
   letter-spacing: 0.03em;
 }
-.nav-item-btn:hover,
+.item-btn:hover,
 .nav-item-btn:focus {
   background-color: #2196f3;
   color: #ffffff;
